@@ -34,9 +34,30 @@ This is a text `void` code phrase.
 
 This is a code block:
 ```
+
 <data name="ErrorHeader" xml:space="preserve">
 <value>Error</value>
 </data>
+```
+
+
+## linking elements 
+
+
+### Links to content
+
+#### External
+
+[weather forecast - https://meteo.pl/](https://meteo.pl)
+
+#### Internal
+
+[more information](reference file.md)
+
+
+
+
+
 
 
 
