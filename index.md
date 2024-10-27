@@ -7,7 +7,9 @@
   - [quote](#quote)
   - [Code and formulas.](#code-and-formulas)
     - [code phrase](#code-phrase)
+    - [formula](#formula)
     - [code block](#code-block)
+    - [Formula block](#formula-block)
 - [linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
@@ -51,16 +53,30 @@ This is **italic** code.
 
 This is a text `void` code phrase.
 
+
+#### formula
+
+This is a formula. $a+b=c$
+
 #### code block
+
+
 
 This is a code block:
 ```
+
+
 
 <data name="ErrorHeader" xml:space="preserve">
 <value>Error</value>
 </data>
 ```
 
+#### Formula block
+
+$$
+a+b=c
+$$
 
 ## linking elements 
 
