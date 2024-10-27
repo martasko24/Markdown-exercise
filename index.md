@@ -66,6 +66,20 @@ This is a code block:
 
 ![droga](droga.jpg)
 
+## List
+
+### Ordered
+
+1. Point 1
+2. Point 2
+3. Point 3
+
+### Unordered
+
+1. Bullet
+2. Another bullet
+3. Yet another bullet 
+
 
 
 
