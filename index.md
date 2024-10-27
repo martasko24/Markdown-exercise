@@ -80,6 +80,18 @@ This is a code block:
 2. Another bullet
 3. Yet another bullet 
 
+## Tables
+
+| Column 1 | Column 2| Column 3 |
+| ---------| --------- | ------- |
+| row 1 |  row 1|  row 1 |
+| row 2 |row 2 | row 3 | 
+|very long sentence | another very long sentence | yet another very long sentence|
+
+
+
+
+
 
 
 
