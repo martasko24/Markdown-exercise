@@ -52,7 +52,22 @@ This is a code block:
 
 #### Internal
 
-[more information](reference file.md)
+[more information](reference_file.md)
+
+### Images
+
+#### External
+
+
+
+![random image](https://picsum.photos/200)
+
+#### Internal
+
+![droga](droga.jpg)
+
+
+
 
 
 
