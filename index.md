@@ -1,27 +1,32 @@
 # Title <!-- omit in toc -->
   
   
-- [Visual Elements](#visual-elements)
-  - [bold](#bold)
-  - [italic](#italic)
-  - [quote](#quote)
-  - [Code and formulas.](#code-and-formulas)
-    - [code phrase](#code-phrase)
-    - [formula](#formula)
-    - [code block](#code-block)
-    - [Formula block](#formula-block)
-- [linking elements](#linking-elements)
-  - [Links to content](#links-to-content)
-    - [External](#external)
-    - [Internal](#internal)
-  - [Images](#images)
-    - [External](#external-1)
-    - [Internal](#internal-1)
-- [List](#list)
-  - [Ordered](#ordered)
-  - [Unordered](#unordered)
-- [Tables](#tables)
+- [Header 1 ](#header-1-)
+  - [Header 2 ](#header-2-)
+  - [Visual Elements](#visual-elements)
+    - [bold](#bold)
+    - [italic](#italic)
+    - [quote](#quote)
+    - [Code and formulas.](#code-and-formulas)
+      - [code phrase](#code-phrase)
+      - [formula](#formula)
+      - [code block](#code-block)
+      - [Formula block](#formula-block)
+    - [Header 3 ](#header-3-)
+  - [linking elements](#linking-elements)
+    - [Links to content](#links-to-content)
+      - [External](#external)
+      - [Internal](#internal)
+      - [Header 4 ](#header-4-)
+    - [Images](#images)
+      - [External](#external-1)
+      - [Internal](#internal-1)
+  - [List](#list)
+    - [Ordered](#ordered)
+    - [Unordered](#unordered)
+  - [Tables](#tables)
 
+# Header 1 <h1>
 
 This is the first paragraph of my file.
 
@@ -30,6 +35,7 @@ This is the second paragraph of my file.
 This is the third paragraph of my file.  
 This is the third paragraph of my file. This is the third paragraph of my file. This is the third paragraph of my file.
 
+## Header 2 <h2>
 
 ## Visual Elements
 
@@ -78,6 +84,8 @@ $$
 a+b=c
 $$
 
+### Header 3 <h3>
+
 ## linking elements 
 
 
@@ -91,6 +99,8 @@ $$
 
 [more information](reference_file.md)
 
+#### Header 4 <h4>
+
 ### Images
 
 #### External
@@ -102,6 +112,8 @@ $$
 #### Internal
 
 ![droga](droga.jpg)
+
+Header 5 <h5>
 
 ## List
 
@@ -116,6 +128,9 @@ $$
 1. Bullet
 2. Another bullet
 3. Yet another bullet 
+   
+
+Header 6 <h6>
 
 ## Tables
 
