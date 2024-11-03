@@ -142,7 +142,9 @@ Header 6 <h6>
 
 Test sentence
 
+[HW martasko24](https://github.com/martasko24/Markdown-exercise)
 
+[HW martasko](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMIVI/pages/425361417/Zaj+cia+27.10.2024+-+formaty+i+narz+dzia+docs-as-code+Markdown+git)
 
 
 
