@@ -7,13 +7,13 @@
     - [bold](#bold)
     - [italic](#italic)
     - [quote](#quote)
-    - [Code and formulas.](#code-and-formulas)
+    - [Code and formulas](#code-and-formulas)
       - [code phrase](#code-phrase)
       - [formula](#formula)
       - [code block](#code-block)
-      - [Formula block](#formula-block)
+      - [formula block](#formula-block)
     - [Header 3 ](#header-3-)
-  - [linking elements](#linking-elements)
+  - [Linking elements](#linking-elements)
     - [Links to content](#links-to-content)
       - [External](#external)
       - [Internal](#internal)
@@ -21,10 +21,13 @@
     - [Images](#images)
       - [External](#external-1)
       - [Internal](#internal-1)
+        - [Header 5 ](#header-5-)
+          - [Header 6 ](#header-6-)
   - [List](#list)
     - [Ordered](#ordered)
     - [Unordered](#unordered)
   - [Tables](#tables)
+  - [Other links](#other-links)
 
 # Header 1 <h1>
 
@@ -53,7 +56,7 @@ This is **italic** code.
 >This is a quote.  
 >This is a quote2.
 
-### Code and formulas.
+### Code and formulas
 
 #### code phrase 
 
@@ -70,15 +73,12 @@ This is a formula. $a+b=c$
 
 This is a code block:
 ```
-
-
-
 <data name="ErrorHeader" xml:space="preserve">
 <value>Error</value>
 </data>
 ```
 
-#### Formula block
+#### formula block
 
 $$
 a+b=c
@@ -86,14 +86,14 @@ $$
 
 ### Header 3 <h3>
 
-## linking elements 
+## Linking elements 
 
 
 ### Links to content
 
 #### External
 
-[weather forecast - https://meteo.pl/](https://meteo.pl)
+[weather forecast](https://meteo.pl)
 
 #### Internal
 
@@ -113,7 +113,10 @@ $$
 
 ![droga](droga.jpg)
 
-Header 5 <h5>
+##### Header 5 <h5>
+
+###### Header 6 <h6>
+
 
 ## List
 
@@ -125,12 +128,10 @@ Header 5 <h5>
 
 ### Unordered
 
-1. Bullet
-2. Another bullet
-3. Yet another bullet 
+* Bullet
+* Another bullet
+* Yet another bullet 
    
-
-Header 6 <h6>
 
 ## Tables
 
@@ -141,6 +142,8 @@ Header 6 <h6>
 |very long sentence | another very long sentence | yet another very long sentence|
 
 Test sentence
+
+## Other links
 
 [HW martasko24](https://github.com/martasko24/Markdown-exercise)
 
