@@ -7,17 +7,18 @@
     - [bold](#bold)
     - [italic](#italic)
     - [quote](#quote)
+  - [Header 3 ](#header-3-)
     - [Code and formulas.](#code-and-formulas)
       - [code phrase](#code-phrase)
       - [formula](#formula)
       - [code block](#code-block)
       - [Formula block](#formula-block)
-    - [Header 3 ](#header-3-)
-  - [linking elements](#linking-elements)
+    - [Header 4 ](#header-4-)
+  - [Linking elements](#linking-elements)
     - [Links to content](#links-to-content)
       - [External](#external)
       - [Internal](#internal)
-      - [Header 4 ](#header-4-)
+      - [Header 5 ](#header-5-)
     - [Images](#images)
       - [External](#external-1)
       - [Internal](#internal-1)
@@ -26,6 +27,7 @@
     - [Unordered](#unordered)
   - [Tables](#tables)
 
+
 # Header 1 <h1>
 
 This is the first paragraph of my file.
@@ -33,6 +35,7 @@ This is the first paragraph of my file.
 This is the second paragraph of my file.
 
 This is the third paragraph of my file.  
+
 This is the third paragraph of my file. This is the third paragraph of my file. This is the third paragraph of my file.
 
 ## Header 2 <h2>
@@ -43,7 +46,6 @@ This is the third paragraph of my file. This is the third paragraph of my file. 
 
 This is **bold** text.
 
-
 ### italic
 
 This is **italic** code.
@@ -53,12 +55,13 @@ This is **italic** code.
 >This is a quote.  
 >This is a quote2.
 
+## Header 3 <h3>
+
 ### Code and formulas.
 
 #### code phrase 
 
 This is a text `void` code phrase.
-
 
 #### formula
 
@@ -66,12 +69,7 @@ This is a formula. $a+b=c$
 
 #### code block
 
-
-
-This is a code block:
-```
-
-
+This is a code block:```
 
 <data name="ErrorHeader" xml:space="preserve">
 <value>Error</value>
@@ -84,10 +82,9 @@ $$
 a+b=c
 $$
 
-### Header 3 <h3>
+### Header 4 <h4>
 
-## linking elements 
-
+## Linking elements 
 
 ### Links to content
 
@@ -99,13 +96,11 @@ $$
 
 [more information](reference_file.md)
 
-#### Header 4 <h4>
+#### Header 5 <h5>
 
 ### Images
 
 #### External
-
-
 
 ![random image](https://picsum.photos/200)
 
@@ -113,7 +108,7 @@ $$
 
 ![droga](droga.jpg)
 
-Header 5 <h5>
+Header 6 <h6>
 
 ## List
 
@@ -129,8 +124,7 @@ Header 5 <h5>
 2. Another bullet
 3. Yet another bullet 
    
-
-Header 6 <h6>
+Header 7 <h7>
 
 ## Tables
 
@@ -139,6 +133,8 @@ Header 6 <h6>
 | row 1 |  row 1|  row 1 |
 | row 2 |row 2 | row 3 | 
 |very long sentence | another very long sentence | yet another very long sentence|
+
+Header 8 <h8>
 
 Test sentence
 
